@@ -9,6 +9,8 @@
 import UIKit
 import SwiftUI
 
+//Warning your app looks lame.
+
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
